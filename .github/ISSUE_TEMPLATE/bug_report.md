@@ -30,5 +30,6 @@ If applicable, add screenshots to help explain your problem.
 **Server info (please complete the following information):**
  - server: e.g The dank squad
  - Server owner: e.g Hedgehog#1704
+
 **Additional context**
 Add any other context about the problem here.
