@@ -13,7 +13,7 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
-2. Click on '....'
+2. Type command '...'
 3. Scroll down to '....'
 4. See error
 
@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Reporter (please complete the following information):**
+**Reporter info (please complete the following information):**
 -reporter username and tags e.g Hedgehog#1704
 -reporter role e.g owner
 
