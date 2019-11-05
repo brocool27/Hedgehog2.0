@@ -1,4 +1,5 @@
 # Hedgehog2.0
+Welcome to the hedgehog2.0 github! 
 Here are some of the things you need to know about her.
 
 
@@ -20,4 +21,6 @@ Here are some of the things you need to know about her.
 
 9. Her code is discord.js
 
-10. No you may not have her token!
+10. She is still being developed to be patent.
+
+11. Her github page is also a work in progress.
