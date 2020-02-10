@@ -7,7 +7,7 @@ Here are some of the things you need to know about her.
 
 2. She is a moderation bot she can kick and ban.
 
-3. **DO NOT DO HHKICK/HHBAN AND YOUR USERNAME!** Example Hedgehog#1704: HHkick @hedgehog#1704 Hedgehog2.0: Succesfully kicked hedgehog#1704. **SHE WILL KICK/BAN YOU!**
+3. Music IS in beta
 
 4: She can show you your avatar/pfp with the command HHavatar. Example Hedgehog#1704: HHavatar Hedgehog2.0 Looking good! *Shows avatar*
 
